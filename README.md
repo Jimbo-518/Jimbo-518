@@ -19,12 +19,5 @@ Técnico en Informática por el IPN y **Java Backend Developer** (con experienci
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
 * **Herramientas:** Git, GitHub, Docker, Maven, IntelliJ IDEA, VS Code
 
----
-
-## 🚀 Proyectos Destacados
-
-* **Sistema de Automatización de Incidencias y Nómina** *(Freelance)*: Automatización web (PHP/MySQL) que redujo el procesamiento de nómina de ~8 horas a menos de 2 minutos.
-* **Profe Attendance System** *(Tesis)*: Control de asistencia docente con códigos QR, plataforma web, app de escritorio y alertas (Java/PHP).
-
 > *¿Quieres conocer más detalles? Revisa mi [Portafolio](https://portfolio.luxesoft.com.mx).
 
