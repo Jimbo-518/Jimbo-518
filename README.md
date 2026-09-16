@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍💻 Sobre Mí
-Técnico en Informática por el IPN [cite: 1] y **Java Backend Developer** (con experiencia en Full Stack) [cite: 1] en CDMX. Apasionado por el desarrollo de APIs REST [cite: 1], la arquitectura MVC [cite: 1] y la automatización de procesos administrativos de alto impacto.
+Técnico en Informática por el IPN y **Java Backend Developer** (con experiencia en Full Stack) en CDMX. Apasionado por el desarrollo de APIs REST, la arquitectura MVC y la automatización de procesos administrativos de alto impacto.
 
 ---
 
@@ -24,14 +24,8 @@ Técnico en Informática por el IPN [cite: 1] y **Java Backend Developer** (con 
 
 ## 🚀 Proyectos Destacados
 
-* **Sistema de Automatización de Incidencias y Nómina** *(Freelance)*: Automatización web (PHP/MySQL) que redujo el procesamiento de nómina de ~8 horas a menos de 2 minutos [cite: 1].
-* **Profe Attendance System** *(Tesis)*: Control de asistencia docente con códigos QR, plataforma web, app de escritorio y alertas (Java/PHP) [cite: 1].
+* **Sistema de Automatización de Incidencias y Nómina** *(Freelance)*: Automatización web (PHP/MySQL) que redujo el procesamiento de nómina de ~8 horas a menos de 2 minutos.
+* **Profe Attendance System** *(Tesis)*: Control de asistencia docente con códigos QR, plataforma web, app de escritorio y alertas (Java/PHP).
 
-> *¿Quieres conocer más detalles? Revisa mi [Portafolio](https://portfolio.luxesoft.com.mx) o contáctame en [jimenez.jose@cecyt12.edu.mx](mailto:jimenez.jose@cecyt12.edu.mx).*
+> *¿Quieres conocer más detalles? Revisa mi [Portafolio](https://portfolio.luxesoft.com.mx).
 
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=benjamin-jimenez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-jimenez&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
