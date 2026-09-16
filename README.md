@@ -2,9 +2,8 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=benjamin-jimenez&color=007ec6&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/benjamin-jimenez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="www.linkedin.com/in/jose-benjamin-jimenez-mora-5038233a2" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://portfolio.luxesoft.com.mx" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="mailto:jimenez.jose@cecyt12.edu.mx"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/></a>
 </p>
 
 ---
@@ -18,7 +17,7 @@ Técnico en Informática por el IPN y **Java Backend Developer** (con experienci
 
 * **Backend & BD:** Java, Spring Boot, PHP, Laravel, MySQL, Thymeleaf
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-* **Herramientas:** Git, GitHub, Maven, IntelliJ IDEA, VS Code
+* **Herramientas:** Git, GitHub, Docker, Maven, IntelliJ IDEA, VS Code
 
 ---
 
